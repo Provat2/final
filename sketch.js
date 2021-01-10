@@ -26,6 +26,7 @@ var ground3, groundGroup; var obstacle2Group;
 var groundDangerGroup, ground2Group;
 var ob3Img, bridge, playerBus2Img;
 var background2;
+var sound_start, sound_end;
 //loading Images...
 function preload(){
     //sound_start = loadSound("1.mp3");
